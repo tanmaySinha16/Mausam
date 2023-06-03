@@ -25,5 +25,8 @@ With its clean and modular architecture, the app is highly maintainable and exte
    <img src="https://res.cloudinary.com/dixttklud/image/upload/v1685786772/Mausam/WhatsApp_Image_2023-06-03_at_15.34.49_awdphh.jpg" width = 20% height = 20% alt="Image 1" style="margin-right: 20px;">
   
 #### Favourites Screen
+  <img src="https://res.cloudinary.com/dixttklud/image/upload/v1685786773/Mausam/favourites_vqrzej.jpg" width = 20% height = 20% alt="Image 1" style="margin-right: 20px;">
 #### Settings
+  <img src="https://res.cloudinary.com/dixttklud/image/upload/v1685786774/Mausam/settings_nxvpm0.jpg" width = 20% height = 20% alt="Image 1" style="margin-right: 20px;">
 #### About
+  <img src="https://res.cloudinary.com/dixttklud/image/upload/v1685786778/Mausam/about_hyrrca.jpg" width = 20% height = 20% alt="Image 1" style="margin-right: 20px;">
