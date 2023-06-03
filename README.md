@@ -9,7 +9,7 @@ With its clean and modular architecture, the app is highly maintainable and exte
 - Jetpack Compose
 - Retrofit
 - Room 
-- Dagger-Hilt f
+- Dagger-Hilt 
 - Kotlin Coroutines
 - Clean Architecture
 
